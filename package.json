@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pankaj511995/node_js.git",
+  "author": "pankaj511995 <kpankaj511995@gmail.com>",
+  "license": "MIT",
+  
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "scripts": {
+    "start": "nodemon app1.js",
+    " start-server":"node app1.ja"
+  }
+}
